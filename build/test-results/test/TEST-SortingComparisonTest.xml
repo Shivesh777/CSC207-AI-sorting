@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortingComparisonTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-21T06:28:32" hostname="Shiveshs-MacBook-Air.local" time="0.011">
+  <properties/>
+  <testcase name="testSortingComparisonMergeSort()" classname="SortingComparisonTest" time="0.01"/>
+  <testcase name="testSortingComparisonInsertionSort()" classname="SortingComparisonTest" time="0.001"/>
+  <testcase name="testSortingComparisonBubbleSort()" classname="SortingComparisonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
